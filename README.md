@@ -33,4 +33,4 @@ Analista de Dados com foco em BI, tecnólogo em Análise e Desenvolvimento de Si
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo_Torres-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-torres-244a37246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo_Torres-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-torres-data/)
